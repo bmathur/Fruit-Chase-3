@@ -1,0 +1,28 @@
+{
+  "name": "FruitChase3",
+  "version": "1.0.0",
+  "description": " Very basic multiplayer online game made with Phaser for Iowa State's ComS 319, Node.js and Socket.io ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": 
+  },
+  "keywords": [
+    "Phaser",
+    "Multiplayer",
+    "game",
+    "Node.js",
+    "socket.io"
+  ],
+  "author": "Robert Hansen, Barkha Mathur",
+  "license": "MIT",
+  "homepage": "proj-319-114.cs.iastate.edu:8080",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^1.7.3"
+  }
+}
